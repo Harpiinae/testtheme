@@ -1,0 +1,9 @@
+/*
+Theme Name: WordPress TestTheme
+Author : GRapps
+Description : Test Project
+Version : 1.0
+Text Domain: Test Theme
+*/
+
+@import '/dist/css/style.css' screen;
